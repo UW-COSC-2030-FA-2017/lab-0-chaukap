@@ -1,0 +1,5 @@
+I learned:
+1) Christopher Colombus' had no idea what he was doing. He thought the world was smaller than scientists had calculated 
+	and believed he could sail to India. If America did not exist he would have died.
+2) I learned how the Git repository works and am excited to use it in the coming labs.
+3) I learned how to prove truth statements using the axioms of logic.
